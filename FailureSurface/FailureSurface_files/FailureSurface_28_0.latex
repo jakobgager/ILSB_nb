@@ -1,0 +1,4 @@
+$$F_\mathrm{f}^\mathrm{t}=\frac{S_{{12}}^{2} \alpha}{S_{l}^{2}} + \frac{S_{{11}}^{2}}{R_{{lt}}^{2}}$$
+$$F_\mathrm{f}^\mathrm{c}=\frac{S_{{11}}^{2}}{R_{{lc}}^{2}}$$
+$$F_\mathrm{m}^\mathrm{t}=\frac{S_{{12}}^{2}}{S_{l}^{2}} + \frac{S_{{22}}^{2}}{R_{{qt}}^{2}}$$
+$$F_\mathrm{m}^\mathrm{c}=\frac{S_{{22}}^{2}}{4 S_{t}^{2}} + \frac{S_{{12}}^{2}}{S_{l}^{2}} + \frac{S_{{22}} \left(\frac{R_{{qc}}^{2}}{4 S_{t}^{2}} -1\right)}{R_{{qc}}}$$

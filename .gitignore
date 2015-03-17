@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+large_strain_old/
+*.tex
+*.pdf
+*.ttf
+htmlparser.py

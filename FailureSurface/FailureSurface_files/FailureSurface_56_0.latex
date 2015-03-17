@@ -1,0 +1,1 @@
+$$^{i}\!\Bbb{E}^{{\mathrm{loc}}}=\left[\begin{smallmatrix}E_{1} + \frac{\nu_{12}^{2}}{\frac{1}{E_{2}} - \frac{\nu_{12}^{2}}{E_{1}}} & \frac{\nu_{12}}{\frac{1}{E_{2}} - \frac{\nu_{12}^{2}}{E_{1}}} & 0\\\frac{\nu_{12}}{\frac{1}{E_{2}} - \frac{\nu_{12}^{2}}{E_{1}}} & \frac{1}{\frac{1}{E_{2}} - \frac{\nu_{12}^{2}}{E_{1}}} & 0\\0 & 0 & G_{12}\end{smallmatrix}\right]$$

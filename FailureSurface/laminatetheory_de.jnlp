@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ilr/aero/download/laminatetheory" href="laminatetheory_de.jnlp">
+    <information>
+        <title>eLamX</title>
+        <vendor>Lehrstuhl für Luftfahrzeugtechnik - TU Dresden</vendor>
+        <description>expandable Laminate eXplorer</description>
+        <description kind="short">expandable Laminate eXplorer</description>
+        <homepage href="http://tu-dresden.de/mw/ilr/lft"/>
+    </information>
+    <resources>
+        <property name="user.language" value="de"/>
+        <j2se version="1.6+" java-vm-args="-Duser.language=de"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/LaminateTheory.jar" main="true" download="eager"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/lib/LT_Laminate.jar" download="eager"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/lib/LT_Calculation.jar" download="eager"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/lib/LT_Buckling.jar" download="eager"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/lib/LT_Deformation.jar" download="eager"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/lib/LT_WWFE.jar" download="eager"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/lib/LT_Failure.jar" download="eager"/>
+        <jar href="http://web.tu-dresden.de/lft/laminatetheory/lib/LFTSwing.jar" download="eager"/>
+        <extension href="http://web.tu-dresden.de/lft/java3d/java3d-1.5.2.jnlp"/>
+    </resources>
+    <security> 
+      <all-permissions/> 
+    </security>
+    <application-desc main-class="laminatetheory.Main">
+    </application-desc>
+</jnlp>

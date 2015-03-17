@@ -1,0 +1,1 @@
+$$F=\max\left(- \frac{S_{{11}}}{R_{{lc}}}, \frac{S_{{11}}}{R_{{lt}}}, - \frac{S_{{22}}}{R_{{qc}}}, \frac{S_{{22}}}{R_{{qt}}}, \lvert{\frac{S_{{12}}}{R_{{ql}}}}\rvert\right)$$

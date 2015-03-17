@@ -1,0 +1,34 @@
+\BOOKMARK [0][-]{part.1}{I Laminate failure surface creator}{}% 1
+\BOOKMARK [0][-]{part.2}{II Python prerequisites}{}% 2
+\BOOKMARK [1][-]{subsection.0.1}{Display functions}{part.2}% 3
+\BOOKMARK [2][-]{subsection.0.2}{Sign function}{subsection.0.1}% 4
+\BOOKMARK [2][-]{subsection.0.3}{Rotation matrix}{subsection.0.1}% 5
+\BOOKMARK [2][-]{subsection.0.4}{VTK-Write Routine}{subsection.0.1}% 6
+\BOOKMARK [2][-]{subsection.0.5}{VTK Reader}{subsection.0.1}% 7
+\BOOKMARK [1][-]{section.1}{Symbols}{part.2}% 8
+\BOOKMARK [0][-]{part.3}{III Failure criteria}{}% 9
+\BOOKMARK [1][-]{section.2}{Max. Stress criterion}{part.3}% 10
+\BOOKMARK [1][-]{section.3}{Tsai-Wu Failure surface}{part.3}% 11
+\BOOKMARK [1][-]{section.4}{Hashin Failure Surface}{part.3}% 12
+\BOOKMARK [1][-]{section.5}{von Mises Yield Surface}{part.3}% 13
+\BOOKMARK [1][-]{section.6}{Tresca Yield Surface}{part.3}% 14
+\BOOKMARK [0][-]{part.4}{IV Laminate properties}{}% 15
+\BOOKMARK [1][-]{subsection.6.1}{Manual definition}{part.4}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Analoge laminate model}{subsection.6.1}% 17
+\BOOKMARK [2][-]{subsection.6.3}{Laminate setup}{subsection.6.1}% 18
+\BOOKMARK [0][-]{part.5}{V Lamination theory}{}% 19
+\BOOKMARK [1][-]{subsection.6.4}{Local elasticity matrix}{part.5}% 20
+\BOOKMARK [2][-]{subsection.6.5}{Compute some layer properties}{subsection.6.4}% 21
+\BOOKMARK [1][-]{section.7}{ABD-Matrix}{part.5}% 22
+\BOOKMARK [1][-]{section.8}{Solve Laminate Equation}{part.5}% 23
+\BOOKMARK [1][-]{section.9}{Compute layer strains and stresses}{part.5}% 24
+\BOOKMARK [1][-]{section.10}{Combine the former to a comp\137safety method}{part.5}% 25
+\BOOKMARK [0][-]{part.6}{VI Triangluate Sphere}{}% 26
+\BOOKMARK [1][-]{section.11}{Read sphere-data from VTK instead of predefined above}{part.6}% 27
+\BOOKMARK [1][-]{section.12}{Compute envelope - based on triangulated sphere}{part.6}% 28
+\BOOKMARK [1][-]{section.13}{Visualize}{part.6}% 29
+\BOOKMARK [2][-]{subsection.13.1}{Axes}{section.13}% 30
+\BOOKMARK [2][-]{subsection.13.2}{Plane}{section.13}% 31
+\BOOKMARK [2][-]{subsection.13.3}{Cutter s11-s12}{section.13}% 32
+\BOOKMARK [2][-]{subsection.13.4}{Cutter s22-s12}{section.13}% 33
+\BOOKMARK [2][-]{subsection.13.5}{Cutter s11-s22}{section.13}% 34
